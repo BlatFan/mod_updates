@@ -95,7 +95,7 @@ BlatBlock uses JSON configuration files for complete customization:
 
 ## Example Layer Configuration
 
-```
+```json
 {
     "title": "blatblock.layer.end",
     "title_color": "#dce775",
