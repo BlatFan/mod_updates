@@ -174,7 +174,7 @@ BlatBlock is designed to work with most popular mods and modpacks. Custom layers
 
 Example
 
-```json
+```js
 // kubejs/server_scripts/
 BlatBlock.bbl(event => {
     event.remove("blatblock:end")
