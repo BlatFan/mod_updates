@@ -95,7 +95,7 @@ BlatBlock uses JSON configuration files for complete customization:
 
 ## Example Layer Configuration
 
-```
+```json
 {
     "title": "blatblock.layer.end",
     "title_color": "#dce775",
@@ -174,7 +174,7 @@ BlatBlock is designed to work with most popular mods and modpacks. Custom layers
 
 Example
 
-```json
+```js
 // kubejs/server_scripts/
 BlatBlock.bbl(event => {
     event.remove("blatblock:end")
